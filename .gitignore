@@ -1,5 +1,7 @@
 .DS_Store
 .vscode
+env.cred.json
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
