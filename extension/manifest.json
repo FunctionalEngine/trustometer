@@ -1,0 +1,27 @@
+{
+  "name": "FakeNews",
+  "version": "0.4.0",
+  "description": "Fake News Detector",
+  "permissions": ["tabs", "activeTab", "declarativeContent", "storage"],
+  "background": {
+    "scripts": ["./js/background.js"],
+    "persistent": false
+  },
+  "content_security_policy": "script-src 'self' https://unpkg.com/axios/dist/axios.min.js; object-src 'self'",
+  "page_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon.png",
+      "32": "images/icon.png",
+      "48": "images/icon.png",
+      "128": "images/icon.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon.png",
+    "32": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  },
+  "manifest_version": 2
+}
