@@ -8,7 +8,7 @@ The Chrome extension is based on a [Node.js](https://nodejs.org/) server. It scr
 
 ## Authors:
 This prototype app was made by us while participating in the [HackUPC 2018 Edition](https://hackupc.com). They made a great job to make the hackathon possible!
-* [Kevin Rosales](https://github.com/kevindx98) 
+* [Kevin Rosales](https://github.com/kevinrosalesdev) 
 * [Adrián Lorenzo](https://github.com/AdrianLorenzoDev) 
 * [Borja Zarco](https://github.com/BorjaZarco) 
 * [Héctor Henríquez](https://github.com/hectorhc2014) 
